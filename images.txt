@@ -1,2 +1,2 @@
-zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
-zabbix/zabbix-agent:alpine-7.0-latest
+docker.io/zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
+docker.io/zabbix/zabbix-agent:alpine-7.0-latest
